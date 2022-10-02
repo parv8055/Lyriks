@@ -1,1 +1,1 @@
-link:-'https://lyriks-omega.vercel.app/'
+link:-'https://lyrikss.vercel.app/'
